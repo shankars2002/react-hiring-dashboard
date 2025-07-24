@@ -1,8 +1,6 @@
-# react-hiring-dashboard
 # 🚀 Jobs - Hiring Dashboard
 
 This is a full-stack web application built as part of the **100B Jobs Challenge**, where the goal is to review hundreds of candidate submissions and **intelligently select a diverse and qualified team of 5 people to hire**.
-
 ---
 
 ## 🧠 Project Objective
@@ -21,7 +19,7 @@ You’ve just raised $100M in funding and need to **hire quickly and wisely**. T
 
 ### Frontend:
 - ⚛️ React.js
-- 📄 Tailwind CSS
+- 📄 Vanilla CSS (for styling, as Tailwind was not used)
 
 ### Backend:
 - 🔧 Node.js + Express
@@ -60,7 +58,7 @@ You’ve just raised $100M in funding and need to **hire quickly and wisely**. T
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/shankars2002/100b-jobs-dashboard.git
+git clone https://github.com/your-username/100b-jobs-dashboard.git
 cd 100b-jobs-dashboard
 ````
 
